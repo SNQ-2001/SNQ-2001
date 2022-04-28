@@ -6,6 +6,10 @@
 <img alt="Github Profile Trophy" height="140.3px" src="https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=onedark" />
 </p>
 
+<img alt="github Profile Summary Cards" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula" />
+</p>
+
+
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20SNQ-2001)](https://github.com/SNQ-2001)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20@_SNQ)](https://twitter.com/_SNQ)
