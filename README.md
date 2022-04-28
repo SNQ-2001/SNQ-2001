@@ -8,7 +8,7 @@
 
 <!--<img alt="github Profile Summary Cards" height="242px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />-->
 
-<img alt="github Profile Summary Cards" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />
+<img alt="github Profile Summary Cards" width="100vw" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />
 
 
 
