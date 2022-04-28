@@ -6,7 +6,9 @@
 
 <img alt="Github Profile Trophy" height="140.3px" src="https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=onedark" />
 
+<div style="text-align: center">
 <img alt="github Profile Summary Cards" height="242px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />
+</div>
 
 
 
