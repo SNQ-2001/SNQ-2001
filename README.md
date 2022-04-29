@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="SNQ-2001" src="header.svg" width="100%" height="32vh">
+<img alt="SNQ-2001" src="header.svg" width="800" height="240">
 <img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />
 <p align="left">
 <img alt="Top Langs" width="53.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
