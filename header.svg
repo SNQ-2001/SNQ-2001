@@ -1,0 +1,83 @@
+<svg fill="none" viewBox="0 0 800 800" width="100%" height="800" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                /* vietnamese */
+                @font-face {
+                font-family: 'Alfa Slab One';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2d1he_escmAm9w.woff2) format('woff2');
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+                }
+                /* latin-ext */
+                @font-face {
+                font-family: 'Alfa Slab One';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhe_escmAm9w.woff2) format('woff2');
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+                }
+                /* latin */
+                @font-face {
+                font-family: 'Alfa Slab One';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhe_escmA.woff2) format('woff2');
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+                }
+                * {
+                padding: 0;
+                margin: 0;
+                box-sizing: border-box;
+                }
+
+                body {
+                background-color:  #151719;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 32vh;
+                }
+                .waviy {
+                position: relative;
+                -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+                font-size: 60px;
+                }
+                .waviy span {
+                font-family: 'Alfa Slab One', cursive;
+                position: relative;
+                display: inline-block;
+                color: #fff;
+                text-transform: uppercase;
+                animation: waviy 4.5s infinite;
+                animation-delay: calc(.1s * var(--i));
+                
+                }
+                @keyframes waviy {
+                0%,20%,40%,60%,80%,90%,100% {
+                    transform: translateY(0)
+                }
+                95% {
+                    transform: translateY(-20px)
+                }
+                }
+			</style>
+            <body>
+            <div class="waviy">
+            <span style="--i:1">S</span>
+            <span style="--i:2">N</span>
+            <span style="--i:3">Q</span>
+            <span style="--i:4">-</span>
+            <span style="--i:5">2</span>
+            <span style="--i:6">0</span>
+            <span style="--i:7">0</span>
+            <span style="--i:8">1</span>
+            </div>
+            </body>
+		</div>
+	</foreignObject>
+</svg>
