@@ -1,61 +1,37 @@
-<svg fill="none" viewBox="0 0 800 220" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+<svg class="SNQ-2001" fill="none" viewBox="0 0 675 165" width="675" height="165" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-                @font-face {
-                    font-family: '6N-Font';
-                    src: url("6N.woff2");
+                @-webkit-keyframes typing { 
+                    from { width: 0; } 
                 }
-				.container {
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 220px;
-					background: #151719;
-					background-size: 600% 400%;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-                .waviy {
-                    position: relative;
-                    -webkit-box-reflect: below -25px linear-gradient(transparent, rgba(0,0,0,.2));
-                    font-size: 60px;
+                @-webkit-keyframes blink-caret { 
+                    50% { border-color: transparent; } 
                 }
-                .waviy span {
-                    font-size: 70px;
-                    font-family: '6N-Font';
-                    position: relative;
-                    display: inline-block;
-                    color: #fff;
-                    text-transform: uppercase;
-                    animation: waviy 4.5s infinite;
-                    animation-delay: calc(.1s * var(--i));
+                .container {
+                    width: 100%;
+                    height: 100%;
+                    background: #161616;
+                    border-radius: 5px;
                 }
-                @keyframes waviy {
-                0%,20%,40%,60%,80%,90%,100% {
-                    transform: translateY(0)
-                }
-                95% {
-                    transform: translateY(-20px)
-                }
+
+                h1 {
+                    font: bold 300% Consolas, Monaco,　 monospace;
+                    border-right: .2em solid white;
+                    width: 16.5em; 
+                    width: 19.2ch;
+                    margin: 2em 1.15em;
+                    padding-top: 4px;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    -webkit-animation: typing 2s steps(21, end), blink-caret .5s step-end infinite alternate;
+                    color: #26e10b;
+                    text-shadow: #26e10b 0px 0 5px;
                 }
 			</style>
-			<div class="container">
-            <div class="waviy">
-            <span style="--i:1">S</span>
-            <span style="--i:2">N</span>
-            <span style="--i:3">Q</span>
-            <span style="--i:4">-</span>
-            <span style="--i:5">2</span>
-            <span style="--i:6">0</span>
-            <span style="--i:7">0</span>
-            <span style="--i:8">1</span>
+            <div class="container">
+                <h1>Welcome to SNQ-2001</h1>
             </div>
-			</div>
 		</div>
 	</foreignObject>
 </svg>
