@@ -2,8 +2,12 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
 <img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" />
 <p align="left">
-<img alt="Top Langs" width="53.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="44.3%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
+<!-- <img alt="Top Langs" width="53.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" /> -->
+  <!-- <img alt="github stats" width="44.3%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" /> -->
+<!--   <img alt="Top Langs" width="48.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" /> -->
+<!--   <img alt="github stats" width="49.3%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" /> -->
+    <img alt="Top Langs" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
+  <img alt="github stats" width="49.4%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
 </p>
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20SNQ-2001)](https://github.com/SNQ-2001)
