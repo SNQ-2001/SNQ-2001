@@ -4,17 +4,8 @@
 
 <p align="left">
 
-<!--  1列  -->
-<!-- <img alt="Top Langs" width="53.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="44.5%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" /> -->
-  
-<!--  言語が2列  -->
-<!--  <img alt="Top Langs" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="49.4%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" /> -->
-  
-<!-- 言語が3列 -->
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
+<img alt="Top Langs" width="44.5%" src="github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="github-readme-stats-vercel-wea9.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
 
 </p>
 
