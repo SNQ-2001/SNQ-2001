@@ -19,20 +19,16 @@ Additionally, I have a keen interest in Flutter and I am actively studying it.
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SNQ-2001&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SNQ-2001&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false" /><br/>
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SNQ2001)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=SNQ2001&theme=dracula&icon=default&time=false&response=false&border=true)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SNQ-2001&limit=10&theme=dracula&combine_all_yearly_contributions=true&hide=B)
