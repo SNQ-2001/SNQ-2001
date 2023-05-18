@@ -19,8 +19,8 @@ Additionally, I have a keen interest in Flutter and I am actively studying it.
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 
 # 📊 GitHub Stats:
-<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false" /><br/>
+<img alt="github Profile Summary Cards" width="98%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="98%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false" /><br/>
 <img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
 <img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
 
