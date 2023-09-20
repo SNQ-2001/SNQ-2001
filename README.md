@@ -27,9 +27,6 @@ Additionally, I have a keen interest in Flutter and I am actively studying it.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SNQ2001&theme=dracula&icon=default&time=false&response=false&border=true)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SNQ-2001&limit=10&theme=dracula&combine_all_yearly_contributions=true&hide=B)
 
