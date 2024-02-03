@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Taishin Miyamoto, a university student from Japan.
+Hello! I'm an iOS developer attending a university in Japan.
 
 Currently, I am involved in iOS application development as an intern at multiple companies.
 
